@@ -1,0 +1,30 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Global
+  name: Global
+  href: api/Global.html
+  name.vb: ''
+  fullName: Global
+  fullName.vb: ''
+  nameWithType: Global
+  nameWithType.vb: ''
+- uid: Global.SphereMovement
+  name: SphereMovement
+  href: api/Global.SphereMovement.html
+  commentId: T:Global.SphereMovement
+  fullName: SphereMovement
+  nameWithType: SphereMovement
+- uid: Global.SphereMovement.SphereMove
+  name: SphereMove()
+  href: api/Global.SphereMovement.html#Global_SphereMovement_SphereMove
+  commentId: M:Global.SphereMovement.SphereMove
+  fullName: SphereMovement.SphereMove()
+  nameWithType: SphereMovement.SphereMove()
+- uid: Global.SphereMovement.SphereMove*
+  name: SphereMove
+  href: api/Global.SphereMovement.html#Global_SphereMovement_SphereMove_
+  commentId: Overload:Global.SphereMovement.SphereMove
+  isSpec: "True"
+  fullName: SphereMovement.SphereMove
+  nameWithType: SphereMovement.SphereMove

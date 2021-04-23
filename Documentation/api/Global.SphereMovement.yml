@@ -1,0 +1,76 @@
+### YamlMime:ManagedReference
+items:
+- uid: Global.SphereMovement
+  commentId: T:Global.SphereMovement
+  id: SphereMovement
+  parent: Global
+  children:
+  - Global.SphereMovement.SphereMove
+  langs:
+  - csharp
+  - vb
+  name: SphereMovement
+  nameWithType: SphereMovement
+  fullName: SphereMovement
+  type: Class
+  source:
+    id: SphereMovement
+    path: ''
+    startLine: 4
+  assemblies:
+  - cs.temp.dll
+  namespace: Global
+  syntax:
+    content: 'public class SphereMovement : MonoBehaviour'
+    content.vb: >-
+      Public Class SphereMovement
+          Inherits MonoBehaviour
+  inheritance:
+  - System.Object
+  modifiers.csharp:
+  - public
+  - class
+  modifiers.vb:
+  - Public
+  - Class
+- uid: Global.SphereMovement.SphereMove
+  commentId: M:Global.SphereMovement.SphereMove
+  id: SphereMove
+  parent: Global.SphereMovement
+  langs:
+  - csharp
+  - vb
+  name: SphereMove()
+  nameWithType: SphereMovement.SphereMove()
+  fullName: SphereMovement.SphereMove()
+  type: Method
+  source:
+    id: SphereMove
+    path: ''
+    startLine: 9
+  assemblies:
+  - cs.temp.dll
+  namespace: Global
+  summary: "\nMove the sphere et dit salut\n"
+  example: []
+  syntax:
+    content: public void SphereMove()
+    content.vb: Public Sub SphereMove
+  overload: Global.SphereMovement.SphereMove*
+  modifiers.csharp:
+  - public
+  modifiers.vb:
+  - Public
+references:
+- uid: Global
+  name: Global
+  nameWithType: Global
+  fullName: Global
+  nameWithType.vb: ''
+  fullName.vb: ''
+  name.vb: ''
+- uid: Global.SphereMovement.SphereMove*
+  commentId: Overload:Global.SphereMovement.SphereMove
+  name: SphereMove
+  nameWithType: SphereMovement.SphereMove
+  fullName: SphereMovement.SphereMove
